@@ -1,5 +1,6 @@
 [web]
-system1
+server1
 
 [dev]
-system3
+server2
+node3
